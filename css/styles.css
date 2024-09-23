@@ -1,0 +1,10 @@
+table,
+      th,
+      td {
+        border: 2px solid blue;
+      }
+      .img-res
+      {
+        width: 50px;
+        display: block;
+      }
